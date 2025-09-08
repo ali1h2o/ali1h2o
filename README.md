@@ -9,7 +9,7 @@
   - High-speed data acquisition with ADCs (ADS8588S, ADS9813)  
   - Hardware-in-the-loop (HIL/PHIL) experimentation  
 - 🤝 Open to collaborating on **embedded systems, control algorithms, and power electronics projects**  
-- 📫 Reach me at: ali_m@ee.iitr.ac.in  
+- 📫 Reach me at: [LinkedIn ](https://www.linkedin.com/in/ali-mahmoud-a3703316a/)
 
 ---
 ✨ Bridging **embedded systems** with **real-time power electronics research**.
