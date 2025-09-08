@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @ali_mahmoud
-- 👀 I’m interested in microcontroller
-- 🌱 I’m currently learning STM32
-- 💞️ I’m looking to collaborate on microcontroller programming
-- 📫 How to reach me ...
+# 👋 Hi, I’m Ali Mahmoud  
 
-<!---
-ali1h2o/ali1h2o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Ph.D. Research Scholar in **Power Electronics & Microgrids**  
+- 🔧 Passionate about **microcontrollers, FPGA design, and embedded systems**  
+- 🌱 Currently exploring **STM32, TI C2000 DSPs, and FPGA-based real-time control**  
+- 📊 Research interests:  
+  - Grid-forming & grid-following inverter control  
+  - Virtual inertia, virtual impedance, and stability of weak grids  
+  - High-speed data acquisition with ADCs (ADS8588S, ADS9813)  
+  - Hardware-in-the-loop (HIL/PHIL) experimentation  
+- 🤝 Open to collaborating on **embedded systems, control algorithms, and power electronics projects**  
+- 📫 Reach me at: [your email] | [LinkedIn link]  
+
+---
+✨ Bridging **embedded systems** with **real-time power electronics research**.
